@@ -71,9 +71,9 @@ print(df.head())
 | await.rsvp      | resell    | —         | —             | 92             | 10     | 5      | Dynadot LLC.    |
 | seventeen.rsvp  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com        |
 | nationwide.rsvp | available | $14.99    | $19.99        | 76             | 66     | 10     | name.com        |
-| free.rsvp       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
-| craft.rsvp      | available | $14.99    | $19.99        | 70             | 41     | 5      | name.com        |
 | ace.rsvp        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com        |
+| craft.rsvp      | available | $14.99    | $19.99        | 70             | 42     | 5      | name.com        |
+| free.rsvp       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com        |
 | ethereal.rsvp   | available | $14.99    | $19.99        | 88             | 31     | 8      | name.com        |
 | live.rsvp       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com        |
 | curative.rsvp   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com        |

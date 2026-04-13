@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .rsvp one-word domains from Unique
 
 **Public extract:** 9,827 rows · **Live catalog:** 9,827 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | adept.rsvp      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com        |
 | good.rsvp       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com        |
 | remedial.rsvp   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com        |
-| alpha.rsvp      | premium   | $623.75   | $623.75       | 90             | 54     | 5      | name.com        |
-| critical.rsvp   | available | $14.99    | $19.99        | 82             | 24     | 8      | name.com        |
 | zero.rsvp       | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com        |
+| critical.rsvp   | available | $14.99    | $19.99        | 82             | 24     | 8      | name.com        |
+| business.rsvp   | premium   | $1,298.70 | $1,298.70     | 100            | 53     | 8      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

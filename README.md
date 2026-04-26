@@ -1,22 +1,22 @@
-# Available .RSVP One-Word Domains (9,827)
+# Available .RSVP One-Word Domains (12,346)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C827%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C827%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C346%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .rsvp one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .rsvp one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,346 domains** on the canonical page below.
 
-**Public extract:** 9,827 rows · **Live catalog:** 9,827 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,346 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .RSVP one-word domain 
 
 ### Files
 
-- `rsvp.csv` — public CSV extract (9,827 rows)
-- `rsvp.json` — public JSON extract (9,827 rows)
+- `rsvp.csv` — public CSV extract (1,000 rows)
+- `rsvp.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| nike.rsvp       | available | $14.99    | —             | 78             | 80     | 4      | name.com        |
-| cuisine.rsvp    | resell    | —         | —             | 78             | 15     | 7      | Spaceship, Inc. |
-| power.rsvp      | premium   | $648.70   | $648.70       | 98             | 62     | 5      | namecheap       |
-| converse.rsvp   | available | $14.99    | $19.99        | 64             | 73     | 8      | name.com        |
-| await.rsvp      | resell    | —         | —             | 92             | 10     | 5      | Dynadot LLC.    |
-| seventeen.rsvp  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com        |
-| nationwide.rsvp | available | $14.99    | $19.99        | 76             | 66     | 10     | name.com        |
-| ace.rsvp        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com        |
-| craft.rsvp      | available | $14.99    | $19.99        | 70             | 42     | 5      | name.com        |
-| free.rsvp       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com        |
-| ethereal.rsvp   | available | $14.99    | $19.99        | 88             | 31     | 8      | name.com        |
-| live.rsvp       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com        |
-| curative.rsvp   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com        |
-| data.rsvp       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap       |
-| adept.rsvp      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com        |
-| good.rsvp       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com        |
-| remedial.rsvp   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com        |
-| zero.rsvp       | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com        |
-| critical.rsvp   | available | $14.99    | $19.99        | 82             | 24     | 8      | name.com        |
-| business.rsvp   | premium   | $1,298.70 | $1,298.70     | 100            | 53     | 8      | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| RedSox.rsvp       | available | $16.98    | —             | 72             | 60     | 7      | namecheap       |
+| cuisine.rsvp      | resell    | —         | —             | 78             | 16     | 7      | Spaceship, Inc. |
+| insight.rsvp      | premium   | $161.25   | —             | 76             | 69     | 8      | name.com        |
+| rekt.rsvp         | available | $14.99    | —             | 40             | 24     | 4      | name.com        |
+| donuts.rsvp       | premium   | $161.25   | —             | 54             | 62     | 6      | name.com        |
+| deeplearning.rsvp | available | $14.99    | —             | 74             | 23     | 13     | name.com        |
+| regions.rsvp      | premium   | $161.25   | —             | 64             | 59     | 7      | name.com        |
+| unicorns.rsvp     | available | $14.99    | —             | 73             | 21     | 8      | name.com        |
+| Books.rsvp        | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap       |
+| HarryPotter.rsvp  | available | $16.98    | —             | 72             | 20     | 12     | namecheap       |
+| skills.rsvp       | premium   | $623.75   | —             | 58             | 47     | 6      | name.com        |
+| gobeyond.rsvp     | available | $14.99    | —             | 76             | 18     | 9      | name.com        |
+| jobs.rsvp         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com        |
+| goviral.rsvp      | available | $14.99    | —             | 76             | 17     | 8      | name.com        |
+| WiFi.rsvp         | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap       |
+| Automobiles.rsvp  | available | $16.98    | —             | 62             | 17     | 11     | namecheap       |
+| tickets.rsvp      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com        |
+| dataflow.rsvp     | available | $14.99    | —             | 70             | 16     | 9      | name.com        |
+| etc.rsvp          | premium   | $623.75   | —             | 58             | 34     | 3      | name.com        |
+| calculators.rsvp  | available | $14.99    | —             | 54             | 16     | 11     | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,827-row public sample | 9,827 live domains                               |
+| 1,000-row public sample | 12,346 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

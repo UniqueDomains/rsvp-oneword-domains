@@ -1,10 +1,10 @@
-# Available .RSVP One-Word Domains (12,346)
+# Available .RSVP One-Word Domains (12,791)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C346%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C791%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rsvp one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,346 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,791 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,346 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,791 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | RedSox.rsvp       | available | $16.98    | —             | 72             | 60     | 7      | namecheap       |
 | cuisine.rsvp      | resell    | —         | —             | 78             | 16     | 7      | Spaceship, Inc. |
 | insight.rsvp      | premium   | $161.25   | —             | 76             | 69     | 8      | name.com        |
-| rekt.rsvp         | available | $14.99    | —             | 40             | 24     | 4      | name.com        |
-| donuts.rsvp       | premium   | $161.25   | —             | 54             | 62     | 6      | name.com        |
 | deeplearning.rsvp | available | $14.99    | —             | 74             | 23     | 13     | name.com        |
-| regions.rsvp      | premium   | $161.25   | —             | 64             | 59     | 7      | name.com        |
+| donuts.rsvp       | premium   | $161.25   | —             | 54             | 62     | 6      | name.com        |
 | unicorns.rsvp     | available | $14.99    | —             | 73             | 21     | 8      | name.com        |
+| regions.rsvp      | premium   | $161.25   | —             | 64             | 59     | 7      | name.com        |
+| affiliates.rsvp   | available | $14.99    | —             | 60             | 21     | 10     | name.com        |
 | Books.rsvp        | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap       |
 | HarryPotter.rsvp  | available | $16.98    | —             | 72             | 20     | 12     | namecheap       |
-| skills.rsvp       | premium   | $623.75   | —             | 58             | 47     | 6      | name.com        |
-| gobeyond.rsvp     | available | $14.99    | —             | 76             | 18     | 9      | name.com        |
 | jobs.rsvp         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com        |
-| goviral.rsvp      | available | $14.99    | —             | 76             | 17     | 8      | name.com        |
+| smartest.rsvp     | available | $14.99    | —             | 64             | 20     | 8      | name.com        |
 | WiFi.rsvp         | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap       |
-| Automobiles.rsvp  | available | $16.98    | —             | 62             | 17     | 11     | namecheap       |
+| gobeyond.rsvp     | available | $14.99    | —             | 76             | 18     | 9      | name.com        |
 | tickets.rsvp      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com        |
-| dataflow.rsvp     | available | $14.99    | —             | 70             | 16     | 9      | name.com        |
+| goviral.rsvp      | available | $14.99    | —             | 76             | 17     | 8      | name.com        |
 | etc.rsvp          | premium   | $623.75   | —             | 58             | 34     | 3      | name.com        |
-| calculators.rsvp  | available | $14.99    | —             | 54             | 16     | 11     | name.com        |
+| Automobiles.rsvp  | available | $16.98    | —             | 62             | 17     | 11     | namecheap       |
+| Cats.rsvp         | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap       |
+| reps.rsvp         | available | $14.99    | —             | 73             | 16     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,346 live domains                              |
+| 1,000-row public sample | 12,791 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

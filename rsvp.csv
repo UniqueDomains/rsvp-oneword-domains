@@ -407,7 +407,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 247e1f4d-9db0-47b3-acc1-9aeb9f87e958,secondarycare.rsvp,available,14.99,,69,1,14,name.com,,
 24877cbf-9537-4b00-a3a3-6b1591f24d82,announces.rsvp,available,14.99,,58,2,9,name.com,,
 24a610e4-9dce-4dcc-8f3b-2f0a8535b502,trios.rsvp,available,14.99,,50,9,5,name.com,,
-24a68dc0-1545-4de3-8df1-20254894f21d,cuisine.rsvp,resell,,,78,16,7,"Spaceship, Inc.",07/06/2024 15:57,07/06/2026 15:57
+24a68dc0-1545-4de3-8df1-20254894f21d,cuisine.rsvp,resell,,,78,15,7,"Spaceship, Inc.",07/06/2024 15:57,07/06/2026 15:57
 24bfa914-c4f7-4b83-bd67-e9209301dc8d,catered.rsvp,available,14.99,,56,5,7,name.com,,
 24fa6cd2-ea3f-4651-be76-3b5cd7d1b726,inthepipeline.rsvp,available,14.99,,42,2,15,name.com,,
 25098e69-8ec8-47cf-a296-551e5b9e9f5f,spellout.rsvp,available,14.99,,76,2,9,name.com,,

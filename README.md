@@ -1,10 +1,10 @@
-# Available .RSVP One-Word Domains (12,791)
+# Available .RSVP One-Word Domains (12,792)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C791%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C792%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rsvp one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,791 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,792 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,791 domains · **Median ask:** $71.89 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,792 domains · **Median ask:** $107.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| RedSox.rsvp       | available | $16.98    | —             | 72             | 60     | 7      | namecheap       |
-| cuisine.rsvp      | resell    | —         | —             | 78             | 15     | 7      | Spaceship, Inc. |
-| insight.rsvp      | premium   | $161.25   | —             | 76             | 69     | 8      | name.com        |
-| deeplearning.rsvp | available | $14.99    | —             | 74             | 23     | 13     | name.com        |
-| donuts.rsvp       | premium   | $161.25   | —             | 54             | 62     | 6      | name.com        |
-| unicorns.rsvp     | available | $14.99    | —             | 73             | 21     | 8      | name.com        |
-| regions.rsvp      | premium   | $161.25   | —             | 64             | 59     | 7      | name.com        |
-| affiliates.rsvp   | available | $14.99    | —             | 60             | 21     | 10     | name.com        |
-| Books.rsvp        | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap       |
-| HarryPotter.rsvp  | available | $16.98    | —             | 72             | 20     | 12     | namecheap       |
-| jobs.rsvp         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com        |
-| smartest.rsvp     | available | $14.99    | —             | 64             | 20     | 8      | name.com        |
-| WiFi.rsvp         | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap       |
-| gobeyond.rsvp     | available | $14.99    | —             | 76             | 19     | 9      | name.com        |
-| tickets.rsvp      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com        |
-| goviral.rsvp      | available | $14.99    | —             | 76             | 17     | 8      | name.com        |
-| etc.rsvp          | premium   | $623.75   | —             | 58             | 34     | 3      | name.com        |
-| Automobiles.rsvp  | available | $16.98    | —             | 62             | 17     | 11     | namecheap       |
-| Cats.rsvp         | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap       |
-| reps.rsvp         | available | $14.99    | —             | 73             | 16     | 4      | name.com        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| nationwide.rsvp | available | $14.99    | $19.99        | 76             | 66     | 10     | name.com  |
+| mint.rsvp       | premium   | $311.25   | —             | 72             | 79     | 4      | name.com  |
+| priceless.rsvp  | available | $14.99    | —             | 75             | 66     | 9      | name.com  |
+| prompt.rsvp     | premium   | $73.75    | —             | 114            | 69     | 6      | name.com  |
+| Nutella.rsvp    | available | $14.99    | —             | 72             | 66     | 7      | name.com  |
+| now.rsvp        | premium   | $623.75   | —             | 78             | 67     | 3      | name.com  |
+| tylenol.rsvp    | available | $14.99    | —             | 78             | 60     | 7      | name.com  |
+| aladdin.rsvp    | premium   | $73.75    | —             | 76             | 67     | 7      | name.com  |
+| WhiteSox.rsvp   | available | $14.99    | —             | 66             | 60     | 9      | name.com  |
+| pay.rsvp        | premium   | $1,248.75 | —             | 84             | 63     | 3      | name.com  |
+| autonomous.rsvp | available | $14.99    | —             | 76             | 44     | 10     | name.com  |
+| Your.rsvp       | premium   | $623.75   | —             | 68             | 59     | 4      | name.com  |
+| fucking.rsvp    | available | $14.99    | —             | 58             | 43     | 7      | name.com  |
+| music.rsvp      | premium   | $1,248.75 | —             | 84             | 53     | 5      | name.com  |
+| sovereign.rsvp  | available | $14.99    | —             | 86             | 41     | 9      | name.com  |
+| business.rsvp   | premium   | $1,298.70 | $1,298.70     | 100            | 52     | 8      | namecheap |
+| visualize.rsvp  | available | $14.99    | —             | 78             | 26     | 9      | name.com  |
+| ada.rsvp        | premium   | $623.75   | —             | 62             | 52     | 3      | name.com  |
+| awaken.rsvp     | available | $14.99    | —             | 76             | 26     | 6      | name.com  |
+| info.rsvp       | premium   | $623.75   | —             | 80             | 51     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,791 live domains                        |
+| 1,000-row public sample | 12,792 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

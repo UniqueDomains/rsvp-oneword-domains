@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .rsvp one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,792 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,792 domains · **Median ask:** $107.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,792 domains · **Median ask:** $107.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/rsvp`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rsvp`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RSVP one-word domain 
 
 ### Files
 
-- `rsvp.csv` — public CSV extract (1,000 rows)
-- `rsvp.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rsvp.csv`, public CSV extract (1,000 rows)
+- `rsvp.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| nationwide.rsvp | available | $14.99    | $19.99        | 76             | 66     | 10     | name.com  |
-| mint.rsvp       | premium   | $311.25   | —             | 72             | 79     | 4      | name.com  |
-| priceless.rsvp  | available | $14.99    | —             | 75             | 66     | 9      | name.com  |
-| prompt.rsvp     | premium   | $73.75    | —             | 114            | 69     | 6      | name.com  |
-| Nutella.rsvp    | available | $14.99    | —             | 72             | 66     | 7      | name.com  |
-| now.rsvp        | premium   | $623.75   | —             | 78             | 67     | 3      | name.com  |
-| tylenol.rsvp    | available | $14.99    | —             | 78             | 60     | 7      | name.com  |
-| aladdin.rsvp    | premium   | $73.75    | —             | 76             | 67     | 7      | name.com  |
-| WhiteSox.rsvp   | available | $14.99    | —             | 66             | 60     | 9      | name.com  |
-| pay.rsvp        | premium   | $1,248.75 | —             | 84             | 63     | 3      | name.com  |
-| autonomous.rsvp | available | $14.99    | —             | 76             | 44     | 10     | name.com  |
-| Your.rsvp       | premium   | $623.75   | —             | 68             | 59     | 4      | name.com  |
-| fucking.rsvp    | available | $14.99    | —             | 58             | 43     | 7      | name.com  |
-| music.rsvp      | premium   | $1,248.75 | —             | 84             | 53     | 5      | name.com  |
-| sovereign.rsvp  | available | $14.99    | —             | 86             | 41     | 9      | name.com  |
-| business.rsvp   | premium   | $1,298.70 | $1,298.70     | 100            | 52     | 8      | namecheap |
-| visualize.rsvp  | available | $14.99    | —             | 78             | 26     | 9      | name.com  |
-| ada.rsvp        | premium   | $623.75   | —             | 62             | 52     | 3      | name.com  |
-| awaken.rsvp     | available | $14.99    | —             | 76             | 26     | 6      | name.com  |
-| info.rsvp       | premium   | $623.75   | —             | 80             | 51     | 4      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| DJIA.rsvp  | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| ada.rsvp   | premium   | $623.75   | —             | medium         | medium | 3      | name.com  |
+| flee.rsvp  | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| ago.rsvp   | premium   | $311.25   | $311.25       | medium         | low    | 3      | name.com  |
+| laid.rsvp  | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| aim.rsvp   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| whiz.rsvp  | available | $14.99    | $19.99        | high           | low    | 4      | name.com  |
+| ask.rsvp   | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| abaft.rsvp | available | $14.99    | $19.99        | medium         | low    | 5      | name.com  |
+| Ava.rsvp   | premium   | $311.25   | —             | high           | medium | 3      | name.com  |
+| asked.rsvp | available | $14.99    | —             | high           | low    | 5      | name.com  |
+| bag.rsvp   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| baggy.rsvp | available | $14.99    | —             | high           | low    | 5      | name.com  |
+| bob.rsvp   | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| bland.rsvp | available | $14.99    | —             | medium         | low    | 5      | name.com  |
+| bus.rsvp   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| borne.rsvp | available | $14.99    | —             | medium         | low    | 5      | name.com  |
+| bye.rsvp   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| didnt.rsvp | available | $14.99    | —             | medium         | low    | 5      | name.com  |
+| cod.rsvp   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .rsvp domains. That makes relevance to invitations, attendance, events, guest lists, launches, and private access the main lens for evaluation. Some names are literal and event-ready, such as carnival.rsvp, while others are broader or more abstract, such as inside.rsvp or alabaster.rsvp. When comparing these domains, focus on whether the word gains clarity from the .rsvp ending or becomes awkward with it. The median ask is 71.89, which keeps price discipline important, but fit matters more than novelty in a niche extension like .rsvp.
+This list of .rsvp domain names is built around one-word terms — short, easy to say, and easy to spell. The .rsvp extension reads naturally for invitations, events, weddings, and hospitality brands, while also working as a distinctive alternative for founders who want a memorable one-word domain outside the crowded .com space. With a median ask near $107 across 12,792 names, this selection spans budget-friendly picks to more premium, brandable terms. Updated daily, it gives investors and founders alike a current view of what's ownable now in this niche.
 
-- Favor words that read naturally before .rsvp
-- Check if the term fits events, access, or response
-- Use price discipline around the 71.89 median ask
-- Watch for trademark-heavy words like einstein.rsvp
+- 12,792 one-word .rsvp domains tracked, updated daily
+- Median ask near $107 across the full selection
+- Short, brandable names suited to events & invites
+- Wide range from budget picks to premium one-word terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

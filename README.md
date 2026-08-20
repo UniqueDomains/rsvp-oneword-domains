@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rsvp one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,761 domains · **Median ask:** $72.13 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| arid.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| ada.rsvp  | premium   | $623.75   | —             | medium         | medium | 3      | name.com  |
-| arse.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| ago.rsvp  | premium   | $311.25   | $311.25       | medium         | low    | 3      | name.com  |
-| cxxx.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| aim.rsvp  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| DJIA.rsvp | available | $14.99    | —             | medium         | low    | 4      | name.com  |
-| ape.rsvp  | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
-| flee.rsvp | available | $14.99    | —             | medium         | low    | 4      | name.com  |
-| ask.rsvp  | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
-| laid.rsvp | available | $14.99    | —             | medium         | low    | 4      | name.com  |
-| aug.rsvp  | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com  |
-| lxxi.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| Ava.rsvp  | premium   | $311.25   | —             | high           | medium | 3      | name.com  |
-| spry.rsvp | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
-| azo.rsvp  | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com  |
-| whiz.rsvp | available | $14.99    | $19.99        | high           | low    | 4      | name.com  |
-| bag.rsvp  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| xcii.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| bob.rsvp  | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| sorry.rsvp  | premium   | $161.25   | $161.25       | high           | low    | 5      | name.com  |
+| quiet.rsvp  | premium   | $311.25   | —             | high           | low    | 5      | name.com  |
+| beauty.rsvp | premium   | $1,248.75 | —             | high           | low    | 6      | name.com  |
+| arid.rsvp   | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| ada.rsvp    | premium   | $623.75   | —             | medium         | medium | 3      | name.com  |
+| arse.rsvp   | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| ago.rsvp    | premium   | $311.25   | $311.25       | medium         | low    | 3      | name.com  |
+| cxxx.rsvp   | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| aim.rsvp    | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| DJIA.rsvp   | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| ape.rsvp    | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
+| flee.rsvp   | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| ask.rsvp    | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| laid.rsvp   | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| aug.rsvp    | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com  |
+| lxxi.rsvp   | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| Ava.rsvp    | premium   | $311.25   | —             | high           | medium | 3      | name.com  |
+| spry.rsvp   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
+| azo.rsvp    | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com  |
+| whiz.rsvp   | available | $14.99    | $19.99        | high           | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

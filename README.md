@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rsvp one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,891 domains · **Median ask:** $51.21 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/rsvp`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | arid.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
 | ada.rsvp  | premium   | $623.75   | —             | medium         | medium | 3      | name.com  |
 | arse.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| ago.rsvp  | premium   | $311.25   | $311.25       | medium         | low    | 3      | name.com  |
+| ago.rsvp  | premium   | $323.70   | $323.70       | low            | low    | 3      | namecheap |
 | cxxx.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
 | aim.rsvp  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
 | djia.rsvp | available | $14.99    | —             | medium         | low    | 4      | name.com  |
@@ -80,10 +80,10 @@ print(df.head())
 | ava.rsvp  | premium   | $311.25   | —             | high           | medium | 3      | name.com  |
 | spry.rsvp | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
 | azo.rsvp  | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com  |
-| whiz.rsvp | available | $14.99    | $19.99        | high           | low    | 4      | name.com  |
+| whiz.rsvp | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap |
 | bag.rsvp  | premium   | $648.70   | $648.70       | medium         | low    | 3      | namecheap |
 | xcii.rsvp | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| bob.rsvp  | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| bob.rsvp  | premium   | $648.70   | $648.70       | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RSVP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

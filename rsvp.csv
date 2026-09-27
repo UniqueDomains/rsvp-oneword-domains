@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 98912f6a-88cf-4838-8541-3a64ce800970,mannerism.rsvp,available,12.98,16.98,high,low,9,namecheap,,,17/09/2026 14:14
 a9d00216-7b36-4077-b021-7edc9a5c1983,velvety.rsvp,available,12.98,16.98,high,low,7,namecheap,,,13/09/2026 02:00
-6e1df42b-0974-4f84-8024-58b4b6a3268d,citizenship.rsvp,available,14.99,,high,low,11,name.com,,,
+6e1df42b-0974-4f84-8024-58b4b6a3268d,citizenship.rsvp,available,12.98,16.98,high,low,11,namecheap,,,27/09/2026 06:58
 4ed6148d-b224-4f2f-9914-3b04cad38def,scout.rsvp,premium,323.7,323.7,high,medium,5,namecheap,,,25/09/2026 09:06
 d59ffe23-fc59-424c-8891-a730888cc7c5,path.rsvp,premium,323.7,323.7,high,low,4,namecheap,,,25/09/2026 07:51
 7169c173-4bc2-4926-b6b6-b2dbe7a18257,gomez.rsvp,premium,37.7,37.7,high,low,5,namecheap,,,25/09/2026 16:06
@@ -10,6 +10,7 @@ e03bdc17-7eac-4fa8-bec9-c8d87c97aae0,pencilled.rsvp,available,12.98,16.98,medium
 b71f5bdb-e1d7-4add-87bc-3e9a8c67eaa5,lol.rsvp,premium,623.75,,high,low,3,name.com,,,
 f7dd4d37-e7b1-4d29-8ce2-72685c525087,clustered.rsvp,available,12.98,16.98,high,low,9,namecheap,,,
 8db9d88f-1853-4329-8879-669dff414f2f,detour.rsvp,premium,36.25,,high,low,6,name.com,,,
+6cac61f7-191d-47a1-9856-0a4c4a3706be,attacks.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,27/09/2026 02:47
 10ac3c48-9d38-489f-916e-a013e097bfa7,annalistic.rsvp,available,12.98,16.98,high,low,10,namecheap,,,
 41d08091-5692-4faa-9849-fed0b406f52c,thing.rsvp,premium,311.25,,high,low,5,name.com,,,
 2aebc0a6-8bd8-44a6-88bf-2c42802d5933,banker.rsvp,premium,76.7,76.7,high,low,6,namecheap,,,22/09/2026 02:46
@@ -22,6 +23,7 @@ cc387691-a28e-40be-ba24-d024db5d1e3a,raptorial.rsvp,available,12.98,16.98,high,m
 b6428a0e-3487-4cba-af20-9a52021a6b53,plutonian.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,20/08/2026 21:34
 1082ba07-9148-4eee-8dbe-8d4150fc64b1,ashtoreth.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,20/09/2026 14:02
 5d200223-5092-4857-9542-533004c37f14,dilatory.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,14/08/2026 07:31
+3192fa35-1d58-4da2-b72d-d587e35ff060,favor.rsvp,premium,76.7,76.7,high,low,5,namecheap,,,27/09/2026 03:53
 8b487580-9eff-49f9-ba31-4ac0fe720a3a,roll.rsvp,premium,161.25,,high,low,4,name.com,,,
 4e7060a9-6b89-41c5-b3c3-2141dbbe1b22,censure.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,19/09/2026 08:29
 28c4033b-974c-483c-b016-22790dfe610b,hat.rsvp,premium,323.7,323.7,high,low,3,namecheap,,,19/09/2026 16:21
@@ -43,7 +45,7 @@ a90dbced-efb0-45e9-9827-9fa560682c9c,irreverent.rsvp,available,12.98,16.98,mediu
 5ad8d75c-bb32-4754-a767-32dd3e83204c,bestiary.rsvp,available,12.98,16.98,high,low,8,namecheap,,,23/09/2026 10:36
 79bb1485-f4bb-4519-b4ae-174b07a13260,melee.rsvp,available,12.98,16.98,high,low,5,namecheap,,,22/09/2026 16:23
 9d7810e9-257f-474c-96e3-9e15d4f9d9c7,abrupt.rsvp,available,12.98,16.98,high,low,6,namecheap,,,
-da2e7616-a297-4f9b-861c-c3561acbac7a,roman.rsvp,premium,311.25,,high,low,5,name.com,,,
+da2e7616-a297-4f9b-861c-c3561acbac7a,roman.rsvp,premium,323.7,323.7,high,low,5,namecheap,,,27/09/2026 02:43
 6d1ea986-ea92-4ac1-9b72-48b1f4a4330d,toward.rsvp,available,14.99,,high,low,6,name.com,,,
 ee9d18f1-9cfa-4f24-9437-a4ba3a485dd1,noyes.rsvp,available,12.98,16.98,high,low,5,namecheap,,,18/09/2026 06:42
 3280ae44-d334-444f-93c0-479b70026472,disarming.rsvp,available,12.98,16.98,high,low,9,namecheap,,,14/08/2026 09:30
@@ -91,9 +93,10 @@ dd2e0ed9-5dbc-4a02-bc78-625f90d71025,pertly.rsvp,available,12.98,16.98,medium,lo
 9ee7f5db-879d-4522-b362-625127f21428,scorching.rsvp,available,12.98,16.98,high,low,9,namecheap,,,09/09/2026 23:31
 e69ec605-9040-4edd-ac3b-a8de08cb10b0,albizia.rsvp,available,12.98,16.98,high,low,7,namecheap,,,18/09/2026 03:01
 3d111dd8-19b6-4a32-85f2-15939abe4941,unpassable.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,21/08/2026 21:49
+02ffe6ff-3e85-4bc4-b5b9-1a4010419ade,jiang.rsvp,premium,37.7,37.7,high,low,5,namecheap,,,27/09/2026 08:14
 1a03dd70-614e-42ef-98cc-564df6886f75,asp.rsvp,premium,167.7,167.7,high,low,3,namecheap,,,20/09/2026 14:30
 801a415c-6505-485f-b1e9-669223b2bc00,giving.rsvp,premium,161.25,161.25,high,low,6,name.com,,,09/08/2026 20:55
-d57ca3c0-215d-4f55-8ccc-17512971e9fe,passive.rsvp,premium,36.25,,high,low,7,name.com,,,
+d57ca3c0-215d-4f55-8ccc-17512971e9fe,passive.rsvp,premium,37.7,37.7,high,low,7,namecheap,,,27/09/2026 02:56
 77ec2318-d089-40a2-88eb-2b3349f1c58c,boned.rsvp,available,12.98,16.98,high,low,5,namecheap,,,10/08/2026 18:34
 2788f206-0e6e-41da-a8d0-09ea5f689acc,gur.rsvp,premium,76.7,76.7,medium,low,3,namecheap,,,13/09/2026 06:52
 163be6fb-b3e8-4c3f-81dc-9ecd3dd9a654,bandung.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,22/09/2026 01:32
@@ -108,13 +111,15 @@ b3efe88e-1792-43ea-bdb6-9e2a31fa6ac3,bookish.rsvp,available,12.98,16.98,high,low
 a9a81d0a-ec49-40ba-84e3-eacf5beb2c28,discharge.rsvp,available,12.98,16.98,high,low,9,namecheap,,,20/09/2026 01:05
 19833d69-7eb6-4a22-8e38-e0990c2df19b,sublunar.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,12/08/2026 08:27
 87532a11-ccb2-411b-8152-298fb8e8b9b6,seemly.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,09/08/2026 06:27
+9e3a4114-46ec-4e26-977e-99bbbd952df3,warrior.rsvp,premium,167.7,167.7,high,low,7,namecheap,,,27/09/2026 05:52
 660eda05-a538-4394-956a-76223fd6b408,neurologic.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,03/09/2026 16:16
 59634f7b-440e-47e3-b76e-ae2a9c7baa95,culpable.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,10/08/2026 12:34
 7dc47d39-9917-4ffb-8ef6-672f94ff79a2,lax.rsvp,premium,73.75,73.75,high,low,3,name.com,,,22/08/2026 21:22
-163376d0-6899-49ef-97a9-dbe3fc20e50b,reported.rsvp,available,14.99,,high,low,8,name.com,,,
+163376d0-6899-49ef-97a9-dbe3fc20e50b,reported.rsvp,available,10.2,10.2,high,low,8,cloudflare,,,27/09/2026 11:56
 9b01f97c-e9b9-4275-b988-79f79aea3a69,pita.rsvp,premium,36.25,,high,low,4,name.com,,,
 262fedfd-a9b2-4f94-a494-94ca7c993dd5,baldachin.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,21/09/2026 21:30
 bd13c11b-f9ef-4a99-8a9b-4c195b3d3e09,armament.rsvp,available,12.98,16.98,high,low,8,namecheap,,,20/09/2026 06:31
+8a038137-b0ff-4c7c-9831-ae7c2ca5c410,osborn.rsvp,available,12.98,16.98,high,low,6,namecheap,,,27/09/2026 07:58
 c660f4f5-35bf-4bc0-897f-d7f476d8e622,immaculate.rsvp,available,12.98,16.98,high,low,10,namecheap,,,18/08/2026 00:07
 8c79b033-16db-4a10-95aa-316e2ec19652,meal.rsvp,premium,167.7,167.7,high,low,4,namecheap,,,25/09/2026 09:17
 b630805a-17b6-4a30-9bd6-d431a4a50d57,apiarist.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,19/09/2026 17:19
@@ -154,10 +159,11 @@ f4786d0d-823e-4390-9c26-0f986e7e96c5,brit.rsvp,premium,36.25,36.25,high,low,4,na
 14c939f1-1e09-4c97-b825-3115e1b4e08b,abolition.rsvp,available,12.98,16.98,high,low,9,namecheap,,,16/09/2026 16:28
 7d70aae3-53f1-4615-a179-9113e07d013b,innately.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,15/09/2026 08:27
 112d2d27-8edf-4a5e-8851-db34d38dbb1c,despise.rsvp,available,14.99,,high,low,7,name.com,,,
-c1a65385-4b82-401f-b157-d5f3d30957a9,treasure.rsvp,premium,161.25,,high,low,8,name.com,,,
+c1a65385-4b82-401f-b157-d5f3d30957a9,treasure.rsvp,premium,167.7,167.7,high,low,8,namecheap,,,27/09/2026 06:38
 28a68160-3431-4a55-a74a-024cae2f1fbd,shaft.rsvp,premium,36.25,,high,low,5,name.com,,,
 feae3308-bce7-4a3f-be7d-08fb787588c2,patristic.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,08/09/2026 10:38
 2f9db749-c20f-4cc6-a026-2e2790e13e66,sunken.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,13/08/2026 22:55
+1fe1b42d-7d25-43c4-8a73-3f993b3a9845,robbed.rsvp,available,12.98,16.98,low,low,6,namecheap,,,27/09/2026 02:44
 d847dca2-f77d-4ba9-96c0-a53a4903f610,minor.rsvp,premium,76.7,76.7,high,low,5,namecheap,,,25/09/2026 20:28
 ac09fa16-8d5c-483f-95fd-18f75811448c,rant.rsvp,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 03:37
 1169d7f2-3e07-4752-b7b9-399d26019d43,attendee.rsvp,available,12.98,16.98,high,low,8,namecheap,,,21/09/2026 01:26
@@ -232,6 +238,7 @@ b5168dda-7e28-4c53-a407-b276918dea43,rhyming.rsvp,available,12.98,16.98,high,low
 3700924d-3ea4-44a2-adf7-dcbe4b9479ab,encrusted.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,13/08/2026 09:24
 8ba5345f-9963-45c4-be74-f9de8663e766,matters.rsvp,premium,37.7,37.7,medium,low,7,namecheap,,,25/09/2026 17:05
 973472e0-0c68-46be-bf6e-a5b93fd231a5,banditry.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,22/09/2026 01:24
+e6341e66-96c8-4635-b4aa-3102946cb486,hirsch.rsvp,premium,37.7,37.7,high,low,6,namecheap,,,27/09/2026 07:27
 2da348a0-e4c8-4f12-9f04-257237b04621,potency.rsvp,available,12.98,16.98,high,medium,7,namecheap,,,09/09/2026 00:49
 60774606-b914-43c3-b164-85106afdd01d,attractive.rsvp,premium,37.7,37.7,high,low,10,namecheap,,,22/09/2026 11:44
 16fa2ee1-5c8a-4f72-905b-93f40a803f79,hut.rsvp,premium,76.7,76.7,high,low,3,namecheap,,,20/09/2026 07:59
@@ -260,11 +267,11 @@ a0603598-00b9-4483-8c9a-91ebf5a6d4cc,poetically.rsvp,available,12.98,16.98,high,
 c26a975c-c268-421a-894b-3ccc39dedc65,attila.rsvp,available,12.98,16.98,high,low,6,namecheap,,,21/09/2026 01:47
 93e3bf74-c705-47ee-8c39-8e62b595f9ea,scratches.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,
 47b587e6-e331-47c9-abf9-cb7b22235827,rising.rsvp,premium,73.75,73.75,high,low,6,name.com,,,
-16a1f324-6ad3-4f90-af01-1e5c1150ecff,piano.rsvp,premium,623.75,,high,low,5,name.com,,,
+16a1f324-6ad3-4f90-af01-1e5c1150ecff,piano.rsvp,premium,648.7,648.7,high,low,5,namecheap,,,27/09/2026 03:41
 cbb2200b-d3f5-4f7d-91bf-9e02b853f145,shelling.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,22/09/2026 08:00
 a4b3f912-119d-41ed-bfbf-21771493132c,turning.rsvp,available,12.98,16.98,high,low,7,namecheap,,,26/09/2026 00:27
 214b0500-f297-4a77-baca-0e0d718361c6,austere.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,22/09/2026 13:15
-fed52184-2e1c-41fb-9c43-c02a3da8b5fd,pleasing.rsvp,available,14.99,,high,low,8,name.com,,,
+fed52184-2e1c-41fb-9c43-c02a3da8b5fd,pleasing.rsvp,available,12.98,16.98,high,low,8,namecheap,,,27/09/2026 04:10
 bd8a3cd1-87e6-4a09-9f88-41e098a2933a,blabber.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,23/09/2026 11:33
 c97a5f5f-d6ff-459b-9412-b3f9039a43bb,mercurial.rsvp,available,12.98,16.98,high,low,9,namecheap,,,17/08/2026 12:50
 a79e7bf6-764d-4494-8f08-0582dadc9ea4,pinkish.rsvp,available,12.98,16.98,high,medium,7,namecheap,,,08/09/2026 19:46
@@ -416,6 +423,7 @@ d742c3c9-8910-49f5-9bbf-22b9e60ee854,episodic.rsvp,available,12.98,16.98,high,lo
 ff601d16-e1cd-44e5-af3f-32f131c67660,tell.rsvp,premium,623.75,,high,low,4,name.com,,,
 2af1c22c-c8df-43e8-a0c8-ff4f7c6d4a8e,microphone.rsvp,premium,37.7,37.7,high,low,10,namecheap,,,25/09/2026 05:37
 ae72ad7b-f495-4810-a5f5-0eac4f873cb6,gaelic.rsvp,available,12.98,16.98,high,low,6,namecheap,,,11/08/2026 23:40
+86c03a4c-4bf1-4411-b089-0e147f1efc54,tires.rsvp,premium,167.7,167.7,medium,low,5,namecheap,,,27/09/2026 10:07
 dca30d34-294e-423b-a047-a9f56f06eaa7,jabber.rsvp,available,14.99,,high,low,6,name.com,,,
 ef7e831e-2701-4125-8458-6e1ea9375ad7,bellbird.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,23/09/2026 05:55
 cbd8969b-6b3e-4e98-b806-fba4d286fb2b,saddle.rsvp,available,14.99,,high,low,6,name.com,,,
@@ -424,6 +432,8 @@ cbd8969b-6b3e-4e98-b806-fba4d286fb2b,saddle.rsvp,available,14.99,,high,low,6,nam
 290148db-12a3-42a7-bee1-ab94d3a84ef7,priestly.rsvp,available,12.98,16.98,high,low,8,namecheap,,,21/08/2026 08:22
 c83a02ed-f4af-4445-8771-779d9d7999bb,zimbabwean.rsvp,available,12.98,16.98,high,low,10,namecheap,,,13/09/2026 15:19
 90f19442-b81c-4c9c-b597-36777dd5e5f5,untreated.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,12/09/2026 21:44
+68b5612c-4cf7-418a-bdb2-218a66033e85,wiley.rsvp,premium,167.7,167.7,high,low,5,namecheap,,,27/09/2026 08:05
+daf2271a-3818-4320-98d4-5f068917d540,rutland.rsvp,available,12.98,16.98,high,low,7,namecheap,,,27/09/2026 05:16
 2b8d3328-1174-42f4-9182-91d770ee1c8a,fellowman.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,21/09/2026 03:03
 6157ab31-f4a6-4740-8684-2324a1441152,motrin.rsvp,available,12.98,16.98,high,medium,6,namecheap,,,17/09/2026 11:16
 8688f7e5-38fc-4e0b-bcb0-3cc9174e54c5,calculous.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,11/08/2026 14:05
@@ -471,9 +481,11 @@ f6680942-ae02-4e34-8723-b9418371e257,rambling.rsvp,available,12.98,16.98,high,lo
 d98c1af0-b275-4f48-b584-3f3b58243dac,midwestern.rsvp,available,12.98,16.98,high,low,10,namecheap,,,24/08/2026 22:41
 e8f02534-bf44-43ef-9e71-a4e38a2fa412,phlegmatic.rsvp,available,12.98,16.98,high,low,10,namecheap,,,08/09/2026 18:53
 3f9ff207-3cf7-49e6-b749-f8309d051c69,subhuman.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,10/09/2026 23:56
+0308062f-e4be-4dce-84d4-d91add328282,kabul.rsvp,available,10.55,10.55,high,low,5,spaceship,,,27/09/2026 12:08
 8ea9d1ee-84de-448f-93e9-0edc5ba81836,acceptably.rsvp,available,12.98,16.98,high,medium,10,namecheap,,,10/09/2026 12:55
 31dfe922-7fc1-4473-a8c2-bc48443eb7cc,biltong.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,23/09/2026 16:53
 f24660c3-9bdb-4cf0-8ac6-225674506bde,lid.rsvp,premium,76.7,76.7,high,low,3,namecheap,,,24/09/2026 13:43
+e5e61ca1-df23-4967-bb93-fe2d28869fd2,hobbs.rsvp,available,12.98,16.98,high,low,5,namecheap,,,27/09/2026 04:26
 525c5eaa-ce0d-41be-921d-b338e1096a34,vacuous.rsvp,available,12.98,16.98,low,low,7,namecheap,,,07/08/2026 02:52
 f7c6cb40-ae0b-448c-b834-66073e5bde4f,laborer.rsvp,available,14.99,,high,low,7,name.com,,,
 62e96505-0e1a-4809-8df3-019e68aaca1e,hick.rsvp,available,12.98,16.98,medium,low,4,namecheap,,,11/08/2026 09:44
@@ -483,6 +495,7 @@ f44ce59f-b46e-4c6f-a74a-349b52e61f6d,gratuity.rsvp,available,14.99,19.99,high,lo
 b8de55d2-1fe6-40af-9716-5c8b91b8bf62,wrong.rsvp,premium,323.7,323.7,high,low,5,namecheap,,,25/09/2026 07:41
 779e0f40-df20-442d-bff0-b0bce4eaa5a8,amused.rsvp,available,12.98,16.98,high,low,6,namecheap,,,
 f3ca7595-71f4-4c78-a222-8730f8b1a3f1,days.rsvp,premium,311.25,,high,low,4,name.com,,,
+fa36d7aa-a208-451e-bee3-99602c7178e4,pcs.rsvp,premium,323.7,323.7,high,low,3,namecheap,,,27/09/2026 08:22
 ee17ed60-8087-4b8e-8d6f-cbf422bdc19c,roommates.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,21/09/2026 02:59
 a80d1076-a1e6-4bf9-9071-812033a06ffd,binnacle.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,23/09/2026 17:36
 6790cd94-6d6b-4fa4-8a8b-0e1f8ae1ac07,noetic.rsvp,available,12.98,16.98,high,low,6,namecheap,,,22/08/2026 07:52
@@ -551,12 +564,14 @@ d2b7f7ea-6367-4be1-8212-1c3961aa055b,shapeless.rsvp,available,12.98,16.98,medium
 9908ba6c-0284-4fa7-9f0d-1bfa8aa99e49,knight.rsvp,premium,311.25,,high,low,6,name.com,,,
 b2ae13c9-e138-4e21-847c-7447a4f88c83,victory.rsvp,premium,167.7,167.7,high,low,7,namecheap,,,25/09/2026 10:56
 9ee7f6b9-b77f-44c1-b39f-483bd99f3a86,chiliad.rsvp,available,,,high,low,7,,,,
+c6b925d1-44a5-4782-b1e3-5b1052fbb85f,alicia.rsvp,premium,76.7,76.7,high,low,6,namecheap,,,27/09/2026 07:22
 e008f9e9-32dd-44fc-aec6-1063bbd4dae2,awn.rsvp,premium,76.7,76.7,high,low,3,namecheap,,,21/09/2026 10:11
 a02a9689-9884-430c-b4fe-0f4e41573f0b,syndrome.rsvp,available,14.99,,medium,low,8,name.com,,,
 881029e2-e28c-47e8-b4fc-768f00d36c80,rasping.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,20/08/2026 18:29
 7fc99a37-74ad-453f-aba4-d0a723c50916,utmost.rsvp,available,12.98,16.98,high,low,6,namecheap,,,24/09/2026 17:09
 52699b29-1291-4b17-82ef-6aa01452a0ef,greens.rsvp,premium,73.75,,high,low,6,name.com,,,
 e48d4b0a-ad20-418b-b9e4-3f28c534ef20,cleansing.rsvp,available,12.98,16.98,high,low,9,namecheap,,,
+5e84b7b2-9e38-4663-84bd-5d02e0ec3b1f,fremont.rsvp,premium,37.7,37.7,high,low,7,namecheap,,,27/09/2026 04:04
 59cf6ba6-898a-4be8-bfcb-57882ee8aa0b,bitis.rsvp,available,12.98,16.98,medium,low,5,namecheap,,,23/09/2026 22:37
 3c2a125b-739a-44a5-b121-d471dfdfb5f2,licit.rsvp,available,12.98,16.98,medium,low,5,namecheap,,,23/08/2026 00:58
 2968ab39-2e4f-4919-ac52-51d6b1a5ea10,hadean.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,20/08/2026 21:32
@@ -569,6 +584,7 @@ f773410d-14b1-4245-8cac-a3b4e3c8df1a,icon.rsvp,premium,623.75,,high,medium,4,nam
 390bb2ce-d12b-47cc-a211-25983627b839,inhuman.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,12/08/2026 16:25
 a0b37bc6-f9aa-45d9-88cb-1bf1112e0ce7,astana.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,18/09/2026 00:11
 46a7e312-f560-406a-8256-26c3ce869938,flexile.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,18/08/2026 08:06
+d370fd4e-80a0-412a-af79-3bf8b44e36d8,shield.rsvp,premium,257.92,257.92,high,low,6,spaceship,,,27/09/2026 12:05
 e8377667-282e-477d-87ae-bdf6461754ac,wagon.rsvp,premium,73.75,,high,low,5,name.com,,,
 3df342cc-45a1-4c1f-914e-ab8e80e3a936,pigeons.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,20/09/2026 07:08
 0953b4fd-d584-446c-be3c-2ff99acee2f7,foreigner.rsvp,available,12.98,16.98,high,low,9,namecheap,,,
@@ -642,6 +658,7 @@ a9989a51-0314-4a26-bcb3-b635a96e8e13,fought.rsvp,available,14.99,,medium,low,6,n
 efd368ac-2828-4b67-8dde-fbae635a0d7f,ideational.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,12/08/2026 19:59
 7a110ecf-5b0a-401c-bb07-750a2bfd155c,porkfish.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,19/09/2026 09:38
 cc84f850-70f3-4f0d-9f77-096fa7c2bbd9,argali.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,20/09/2026 04:09
+cf217f7f-3d75-48e5-85f9-b2b6723d404b,mcintosh.rsvp,available,12.98,16.98,high,low,8,namecheap,,,27/09/2026 04:44
 1500b2e3-5784-4355-9118-d1304f496041,jowly.rsvp,available,12.98,16.98,medium,low,5,namecheap,,,14/08/2026 16:48
 ea167bba-0991-4915-b881-6440eeaeeab5,sharp.rsvp,premium,167.7,167.7,high,low,5,namecheap,,,21/09/2026 16:42
 17a7a0b0-e6bc-4ae9-9946-949a14cfed7c,jolly.rsvp,premium,76.7,76.7,high,low,5,namecheap,,,25/09/2026 11:52
@@ -683,7 +700,7 @@ b77c5001-24ea-4061-913e-c8786fcfbb33,albite.rsvp,available,12.98,16.98,high,low,
 17eee3a7-5a53-46d2-b085-751dd1dd468a,ambulation.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,18/09/2026 17:29
 f8b136a3-d83b-416f-a3ee-46021c58e331,adscript.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,
 dbc4985a-da32-46ab-9814-14627d9a9d76,interrupt.rsvp,available,14.99,19.99,high,low,9,name.com,,,13/08/2026 12:38
-bc566612-12ea-4e65-bfff-4345de62510e,start.rsvp,premium,1248.75,,high,medium,5,name.com,,,
+bc566612-12ea-4e65-bfff-4345de62510e,start.rsvp,premium,1298.7,1298.7,high,medium,5,namecheap,,,27/09/2026 04:39
 50b5e09e-5c4b-4ccd-b94f-99fef4f8787b,backrest.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,21/09/2026 15:47
 0a133907-37a9-41cb-a55f-eb6d1cf8234c,melvin.rsvp,available,12.98,16.98,high,low,6,namecheap,,,26/09/2026 03:21
 6d0cce8a-9e8c-42a9-be11-e18c7306c7d9,andean.rsvp,available,12.98,16.98,high,low,6,namecheap,,,
@@ -711,7 +728,8 @@ cfeefa89-399a-40b8-9980-b236770a25fa,karen.rsvp,premium,167.7,167.7,high,low,5,n
 cf1639af-7150-4e61-8098-2cf66cc5aa6d,sodium.rsvp,available,12.98,16.98,high,low,6,namecheap,,,20/09/2026 22:13
 e002eb85-b8c0-4c47-91ad-1f38308d18ba,untainted.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,10/09/2026 18:22
 522a031c-ad96-4e4f-81e6-c2171a648ad7,aguish.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,
-4384e547-f561-46a6-9ea0-f0f7dc54715e,worker.rsvp,premium,161.25,,high,low,6,name.com,,,
+6d05ed0e-d1f4-4d45-ba0b-1961053f0d3e,cemetery.rsvp,premium,30.22,30.22,high,low,8,spaceship,,,27/09/2026 12:06
+4384e547-f561-46a6-9ea0-f0f7dc54715e,worker.rsvp,premium,167.7,167.7,high,low,6,namecheap,,,27/09/2026 07:18
 334fefd4-a794-4fbb-9817-75c6935e25ee,unfed.rsvp,available,12.98,16.98,medium,low,5,namecheap,,,12/09/2026 10:04
 f41a1a4d-f650-4bdb-b549-30d1a82c79a0,lusty.rsvp,available,12.98,16.98,high,low,5,namecheap,,,12/08/2026 20:20
 ec074325-49fd-49bd-9695-0f5b9028d6a8,attracted.rsvp,available,14.99,19.99,high,low,9,name.com,,,26/09/2026 03:10
@@ -753,6 +771,7 @@ cda00c6e-9c23-4fa2-9423-3ef7442a2e46,stinging.rsvp,available,14.99,19.99,high,lo
 68d76048-369a-492a-96fb-24cebd222973,angostura.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,19/09/2026 07:08
 c4cd7f42-d174-43c9-b816-3e379dd4611a,funds.rsvp,premium,311.25,,high,low,5,name.com,,,
 6f498b5b-be77-49da-b67b-15b074357fe2,milanese.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,24/08/2026 22:53
+25ea519f-762b-4f8f-91ff-099bdc99f283,realize.rsvp,premium,76.7,76.7,high,low,7,namecheap,,,27/09/2026 05:56
 dbe478da-46dd-4151-82d6-eac9df3840fe,narial.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,03/09/2026 13:14
 5d716693-8228-432e-a1e0-1ab5ff20ea25,forceful.rsvp,available,12.98,16.98,high,low,8,namecheap,,,18/08/2026 11:13
 71878cc6-22bc-4c28-8474-3ed9659ebb51,html.rsvp,premium,623.75,,high,low,4,name.com,,,
@@ -828,12 +847,13 @@ e75795f4-258f-45e8-90de-3a348e6bc8e0,songbirds.rsvp,available,12.98,16.98,medium
 c5cf08a0-dd87-4840-a2a0-a3e983be0099,xlv.rsvp,premium,73.75,73.75,high,low,3,name.com,,,
 75eb8a98-c2b5-4586-937e-9fc70e2f9c88,cooperation.rsvp,available,14.99,,high,low,11,name.com,,,
 28339921-6575-4b19-bdbf-cbe9840e6c42,terminators.rsvp,available,12.98,16.98,low,low,11,namecheap,,,20/09/2026 12:06
-54cc6a0f-f9d8-4f34-95de-ed6bccfa2e39,assume.rsvp,available,14.99,,high,low,6,name.com,,,
+54cc6a0f-f9d8-4f34-95de-ed6bccfa2e39,assume.rsvp,available,12.98,16.98,high,low,6,namecheap,,,27/09/2026 08:58
 64855ae7-1d9a-4a85-9e2c-48bee8a5b150,storied.rsvp,available,12.98,16.98,high,low,7,namecheap,,,21/08/2026 09:55
 c4f5599b-bb5e-43c5-8d0c-71c41b44b99b,coherent.rsvp,available,12.98,16.98,high,low,8,namecheap,,,12/08/2026 16:00
 0520292e-1f1b-4a6a-b4e8-7a1bec2490ef,detoxify.rsvp,available,14.99,,high,low,8,name.com,,,
 e270023f-cf03-4d27-a0ce-6952ae66ef9c,branchy.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,11/08/2026 02:23
 dfb45ef8-2f35-4652-8479-4c5c9019cd83,avenue.rsvp,premium,648.7,648.7,high,medium,6,namecheap,,,21/09/2026 09:08
+deed9b90-9d49-4afc-a259-cb730cacd272,cheryl.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,27/09/2026 07:16
 ca2c9c46-be09-4267-8c2d-84a364299211,harijan.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,12/09/2026 21:38
 4797b5bb-5a59-4055-ba15-5d24a59032a7,partner.rsvp,premium,648.7,648.7,high,low,7,namecheap,,,23/09/2026 11:42
 b8bbbfba-8294-420e-84ec-4342759bb0c7,invincibly.rsvp,available,12.98,16.98,medium,low,10,namecheap,,,15/09/2026 09:08
@@ -954,11 +974,13 @@ d4d1330b-b7a0-4a38-a1fb-7ef6662a748b,amigo.rsvp,premium,323.7,323.7,high,low,5,n
 a9697c62-63f7-4be5-b20d-7104e1871fcf,slantwise.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,16/09/2026 02:22
 48bdefb3-04d4-435e-9cc3-11aad46a3439,pane.rsvp,premium,37.7,37.7,high,low,4,namecheap,,,21/09/2026 14:30
 12a93f65-2306-4442-87db-c9252ed16f40,divide.rsvp,premium,36.25,,high,low,6,name.com,,,
+734c1580-31e1-43e4-a073-e12868430386,fishing.rsvp,premium,323.7,323.7,high,low,7,namecheap,,,27/09/2026 03:59
 68f23b28-d987-4fec-bf4e-69e49883d24b,struck.rsvp,available,12.98,16.98,medium,low,6,namecheap,,,10/09/2026 11:50
 3296941f-c161-43b8-a2e6-dfe92e6d0c2a,annealing.rsvp,available,12.98,16.98,high,low,9,namecheap,,,11/09/2026 10:58
 df162fcd-3e04-40b3-8639-aafd73671e98,cancelled.rsvp,available,12.98,16.98,high,low,9,namecheap,,,11/08/2026 16:25
 e445b906-0234-4965-9d87-ceee3629922f,nigerien.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,03/09/2026 17:14
 4f0f1b83-3c70-43a4-9663-e4967a60736a,helpless.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,21/08/2026 06:38
+e2e3d619-82b1-402b-98a0-4d560d7c2b89,immediately.rsvp,available,12.98,16.98,high,low,11,namecheap,,,27/09/2026 06:22
 f46feefb-609e-4b27-8482-907e651adb06,nora.rsvp,premium,76.7,76.7,high,low,4,namecheap,,,25/09/2026 14:35
 83b17dbe-0c93-47c4-a89d-871ecb155486,tame.rsvp,premium,37.7,37.7,high,low,4,namecheap,,,11/09/2026 07:40
 b916a31f-56ed-4e92-89df-b1a06c1b8c1a,unfinished.rsvp,available,12.98,16.98,high,low,10,namecheap,,,12/09/2026 10:17
@@ -977,25 +999,3 @@ c2c58404-d7b0-47c6-8ab3-e084c548408c,reserved.rsvp,premium,76.7,76.7,high,low,8,
 7ebab535-0000-4173-be17-2c2435bc5529,unlogical.rsvp,available,12.98,16.98,low,low,9,namecheap,,,21/08/2026 20:07
 273b9a58-6392-4a67-a078-3083df69e699,ignorant.rsvp,available,12.98,16.98,high,low,8,namecheap,,,21/08/2026 18:27
 c752b99a-089e-486b-8f8c-d610e7afd68f,oversee.rsvp,available,14.99,,high,low,7,name.com,,,
-a231a9b8-8cfe-4260-886b-8c5de75818ba,diseased.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,14/08/2026 10:08
-1e8f1ce4-a017-48bd-bc45-b300efb660be,heartburn.rsvp,available,14.99,,medium,low,9,name.com,,,
-bb7f66d1-b6cb-44f3-9d45-c0597f96df14,gladiola.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,19/08/2026 00:09
-8ac034ca-9dd5-41df-a11e-319e3a478200,lend.rsvp,premium,36.25,,high,low,4,name.com,,,
-5b4662ae-9f45-4498-a0ed-6bb393d66889,sagacious.rsvp,available,12.98,16.98,high,low,9,namecheap,,,08/09/2026 18:02
-9c81635f-b4c2-46c7-a315-0ff1eac0acdb,rock.rsvp,premium,623.75,,high,low,4,name.com,,,
-c5954ced-a80f-4c10-9a12-fa731cf3620b,bethune.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,23/09/2026 11:17
-bb3e5d05-a58c-47ff-8eeb-7ac0cdd00f71,veteran.rsvp,premium,73.75,,high,low,7,name.com,,,
-65d82894-8f20-42fa-adb0-0ad5031c328e,lightwood.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,16/09/2026 20:15
-480dd0b8-326e-49d0-9164-669916528699,pinochle.rsvp,available,12.98,16.98,medium,low,8,namecheap,,,23/09/2026 12:19
-73373646-081c-4908-9e58-ec9cb05ef395,witting.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,12/08/2026 22:24
-02cce4ea-d43b-4ed9-a7c4-98d8fccaf1c4,leader.rsvp,premium,311.25,,high,low,6,name.com,,,
-2f91ffa0-d0b4-423f-9458-042e1e3d64f7,salim.rsvp,available,12.98,16.98,high,low,5,namecheap,,,19/09/2026 04:37
-552e2d3a-bbae-4bb5-be44-dc2ebe33772c,infant.rsvp,premium,73.75,,high,low,6,name.com,,,
-62500006-2fce-4f47-afdf-01a078439b31,pounding.rsvp,available,12.98,16.98,high,low,8,namecheap,,,11/09/2026 14:51
-3e2b30b5-9a8e-482c-8197-3c4b1c3f511d,heckler.rsvp,available,12.98,16.98,medium,low,7,namecheap,,,21/09/2026 17:11
-65bb59a9-62aa-4812-8c22-d01c4e0c4ea0,rigour.rsvp,available,12.98,16.98,high,low,6,namecheap,,,20/09/2026 14:57
-4d8ac857-4456-4981-a2fc-c04524d5d9e7,aerospace.rsvp,available,12.98,16.98,high,low,9,namecheap,,,17/09/2026 13:17
-4e6d225f-d805-4c7f-b4ae-a58b6be3a395,packing.rsvp,premium,36.25,,high,low,7,name.com,,,
-7c2b072e-3c77-4d35-bc81-ce2c6b50deab,erose.rsvp,available,12.98,16.98,medium,low,5,namecheap,,,17/08/2026 12:30
-7cd03fce-2cb9-4512-917f-e971518fc0bd,thatcher.rsvp,available,12.98,16.98,high,low,8,namecheap,,,22/09/2026 07:26
-9723654d-2a1c-43f4-881f-e33d66114896,vicarious.rsvp,available,12.98,16.98,medium,low,9,namecheap,,,13/09/2026 05:15
